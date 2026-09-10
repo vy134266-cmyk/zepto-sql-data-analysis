@@ -143,16 +143,3 @@ SELECT
 FROM zepto
 GROUP BY category
 ORDER BY total_weight DESC;
-
-
-
-
-
-
-
-
-
-
-
-
-
